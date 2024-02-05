@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --backgroundColor: gray;
+    --basicControlPanelColor: rgb(0, 110, 255);
+
+    --basicButtonPadding: 10px;
+    --basicButtonInset: 0px 0px 8px black inset;
+    --basicBoxShadow: 0px 0px 8px black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
